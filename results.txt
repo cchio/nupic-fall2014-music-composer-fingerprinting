@@ -1,0 +1,28 @@
+results:
+
+
+⇒  python convertmidi.py csv/pitch_output_pathetique_train1.csv
+0.0871525633107
+
+⇒  python convertmidi.py csv/pitch_output_beethoven13_train1.csv
+0.00907305577376
+
+⇒  python convertmidi.py csv/pitch_output_fur_train1.csv
+0.0448903002309
+
+⇒  python convertmidi.py csv/pitch_output_fur_train7.csv
+0.0285219399538
+
+⇒  python convertmidi.py csv/pitch_output_fur_train27.csv
+0.0166859122402
+
+⇒  python convertmidi.py csv/pitch_output_lovestory_train20.csv
+0.0128871532454
+
+
+
+
+
+
+⇒  python convertmidi.py csv/taylor_on_beethoven.csv
+0.580138568129
