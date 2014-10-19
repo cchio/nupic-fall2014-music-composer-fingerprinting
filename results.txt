@@ -2,27 +2,29 @@ results:
 
 
 ⇒  python convertmidi.py csv/pitch_output_pathetique_train1.csv
-0.0871525633107
+0.0871525633107 (meh)
 
 ⇒  python convertmidi.py csv/pitch_output_beethoven13_train1.csv
-0.00907305577376
+0.00907305577376 (meh)
 
 ⇒  python convertmidi.py csv/pitch_output_fur_train1.csv
-0.0448903002309
+0.0448903002309 (trend is good)
 
 ⇒  python convertmidi.py csv/pitch_output_fur_train7.csv
-0.0285219399538
+0.0285219399538 (trend is good)
 
 ⇒  python convertmidi.py csv/pitch_output_fur_train27.csv
-0.0166859122402
+0.0166859122402 (trend is good)
 
 ⇒  python convertmidi.py csv/pitch_output_lovestory_train20.csv
-0.0128871532454
-
-
-
-
-
+0.0128871532454 (meh)
 
 ⇒  python convertmidi.py csv/taylor_on_beethoven.csv
-0.580138568129
+0.580138568129 (GREAT)
+
+⇒  python convertmidi.py csv/fur_on_taylor.csv
+0.00451791004579 (OOPS)
+
+⇒  python convertmidi.py csv/taylor_on_taylor.csv
+0.814614935823 (OOPS)
+
